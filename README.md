@@ -1,4 +1,4 @@
-# birthday_tartancheck
+# birthday_check
 
 ## Project setup
 ```
