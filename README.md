@@ -1,6 +1,5 @@
 # birthday_check
 
-# URL
 https://nakanoamane.github.io/birthday_check/
 
 ## Project setup
