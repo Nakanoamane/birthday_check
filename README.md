@@ -1,5 +1,8 @@
 # birthday_check
 
+# 
+https://nakanoamane.github.io/birthday_check/
+
 ## Project setup
 ```
 yarn install
